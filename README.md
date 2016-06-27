@@ -8,8 +8,8 @@ npm install --save-dev gulp-html-text-wrapper
 
 ## Usage
 ```js
-var gulp = require('gulp');
-var wrap = require('gulp-html-text-wrapper');
+var gulp    = require('gulp'),
+    wrapper = require('gulp-html-text-wrapper');
 
 gulp.task('wrap', function() {
   return gulp.src('*/**/*.html', {base: './'})
