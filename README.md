@@ -17,7 +17,7 @@ gulp.task('wrap', function() {
       tagName: 'sb-i18n',
       ignoredParentsTagNames: ['style', 'script', 'dom-module', 'template']
     }))
-    .pipe(gulp.dest('.'));
+    .pipe(gulp.dest('dist/'));
 });
 ```
 
