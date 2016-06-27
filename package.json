@@ -1,6 +1,6 @@
 {
   "name": "gulp-html-text-wrapper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A gulp plugin that finds and wraps text content in HTML files with HTML tags.",
   "main": "index.js",
   "scripts": {
