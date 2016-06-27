@@ -1,4 +1,4 @@
-# gulp-html-text-wrapper
+# gulp-html-text-wrapper [![NPM Version][npm-image]][npm-url]
 > A gulp plugin that finds and wraps text content in HTML files with HTML tags.
 
 ## Install
@@ -23,3 +23,6 @@ gulp.task('wrap', function() {
 
 ## License
 [MIT](LICENSE)
+
+[npm-image]: https://img.shields.io/npm/v/gulp-html-text-wrapper.svg
+[npm-url]: https://www.npmjs.com/package/gulp-html-text-wrapper
